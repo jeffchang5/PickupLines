@@ -2,7 +2,7 @@
 * Are you an Oculus Rift because you can’t be real life?
 * Are you a validated HTML page?
 
-> Because you're perfect from <head> to the <footer>.
+> Because you&#39;re perfect from &lt;head&gt; to the &lt;footer&gt;.
 
 * Are you Stack Overflow?
 
