@@ -14,6 +14,5 @@
 
 * If you were Vim, I'd never be able to :q you.
 
-# Canadian Pickup Lines
 
 # General
